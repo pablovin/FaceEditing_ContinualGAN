@@ -1,10 +1,10 @@
 Training and testing model presented in the following publication:
  - Model for the paper: Lindt, A., Barros, P., Siqueira, H., &amp; Wermter, S. (2019, May). Facial expression editing with continuous emotion labels. In 2019 14th IEEE International Conference on Automatic Face &amp; Gesture Recognition (FG 2019) (pp. 1-8). IEEE.
 
-##Pre-requisites
+## Pre-requisites
 Install the requirements from the Requirements.txt file.
 
-##Continual Face Expression Edditing
+## Continual Face Expression Edditing
 
 ![Face Editing](imgs/network.png)
 
@@ -16,7 +16,7 @@ to continuous two-dimensional emotion labels. One dimension
 represents an emotion’s valence, the other represents its degree
 of arousal.
 
-##Face Editing
+## Face Editing
 
 ![Face Editing](imgs/example.jpg)
 
